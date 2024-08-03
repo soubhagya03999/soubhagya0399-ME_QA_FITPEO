@@ -1,4 +1,5 @@
 Project Setup and Execution Guide
+---------------------------------
 This document provides a step-by-step guide to setting up and running the automation script for the FITPeo website.
 
 Prerequisites
@@ -10,7 +11,7 @@ Prerequisites
 
 4.ChromeDriver: Ensure you have ChromeDriver that matches your Chrome version. You can download it from here.
 
-Project Structure
+Project Structure 
 -----------------
 css
 Copy code
